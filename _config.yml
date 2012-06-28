@@ -7,10 +7,10 @@ markdown: rdiscount
 
 # configuration required for some pages
 
-domain: blog.example.com
-title: My Blog Title
-author: Me
-email: me@example.com
+domain: freeair.io
+title: FreeAir
+author: The FreeAir team
+email: we@freeair.io
 
 # configuration for ehancements, uncomment to enable
 

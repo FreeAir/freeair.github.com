@@ -141,3 +141,11 @@
 .highlight .il {
   color: #009999;
 }
+.placeholder {
+  background: #000f3d;
+}
+.placeholder div {
+  margin: 250px auto;
+  width: 399px;
+  height: 399px;
+}

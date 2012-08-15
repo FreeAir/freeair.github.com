@@ -1,72 +1,70 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-    {% if page.description %}
-    <meta name="description" content="{{ page.description }}" />
-    {% endif %}
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <link rel="stylesheet" media="screen" href="/stylesheets/stubs.css" type="text/css" />
-    {% if site.feedburner %}
-    <link href="http://feeds.feedburner.com/{{ site.feedburner.id }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
-    {% endif %}
-    {% if site.google_analytics %}
-    <!-- google analytics async -->
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', '{{ site.google_analytics.account }}']);
-      _gaq.push(['_trackPageview']);
-      (function() {
-       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-       })();
-     </script>
-     {% endif %}
-   </head>
-   <body>
-     <header>
-     <div id="logo">
-     </div>
-     </header>
-     <section>
-     <div id="date_field"> Episode #1 - July 9th, 2012 </div>
-     <div id="mp3_audio">
-       <audio id="player" name="player" src="/audio/theme_jingle/freeair.mp3" controls="controls">
-       </audio> <span>FreeAir's Theme Jingle episode.. </span>
-       <a href="#" > Download Episode </a>
-     </div>
-     <div id="summary_links">
-       <a href="#" >Summary links #1 </a>
-       <a href="#" >Summary links #2 </a>
-       <a href="#" >Summary links #3 </a>
-     </div>
-     <div id="tags">
-       <a href="#" >Tags #1 </a>
-       <a href="#" >Tags #2 </a>
-       <a href="#" >Tags #3 </a>
-     </div>    
-     </section>
+<head>
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}" />
+  {% endif %}
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <link rel="stylesheet" media="screen" href="/stylesheets/stubs.css" type="text/css" />
+  {% if site.feedburner %}
+  <link href="http://feeds.feedburner.com/{{ site.feedburner.id }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
+  {% endif %}
+  {% if site.google_analytics %}
+  <!-- google analytics async -->
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '{{ site.google_analytics.account }}']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+ </script>
+ {% endif %}
+</head>
+<body>
+ <header>
+   <div id="logo">
+   </div>
+ </header>
+ <section>
+  <div class="title_field"> Episode #2 AntiPatterns - August 12th, 2012 </div> <br/>
+   <div id="mp3_audio">
+     <audio id="player" name="player" src="/audio/theme_jingle/freeair.mp3" controls="controls">
+     </audio> <span>FreeAir's Theme Jingle episode.. </span>
+     <a href="#" > Download Episode </a>
+   </div>
+   <div id="summary_links">
+     <a href="#" >Summary links #1 </a>
+     <a href="#" >Summary links #2 </a>
+     <a href="#" >Summary links #3 </a>
+   </div>
+   <div id="tags">
+     <a href="#" >Tags #1 </a>
+     <a href="#" >Tags #2 </a>
+     <a href="#" >Tags #3 </a>
+   </div>
+ </section>
 
-     <section>
-     <div id="date_field"> Episode #1 - July 9th, 2012 </div>
-     <div id="mp3_audio">
-       <audio id="player" name="player" src="/audio/theme_jingle/freeair.mp3" controls="controls">
-       </audio> <span>FreeAir's Theme Jingle episode.. </span>
-       <a href="#" > Download Episode </a>
-     </div>
-     <div id="summary_links">
-       <a href="#" >Summary links #1 </a>
-       <a href="#" >Summary links #2 </a>
-       <a href="#" >Summary links #3 </a>
-     </div>
-     <div id="tags">
-       <a href="#" >Tags #1 </a>
-       <a href="#" >Tags #2 </a>
-       <a href="#" >Tags #3 </a>
-     </div>    
-     </section>
-
-
-   </body> 
- </html>
+ <section>
+   <div class="title_field"> Episode #1 FreeAir's Theme Jingle episode.. - July 9th, 2012 </div> <br/>
+   <div id="mp3_audio">
+     <audio id="player" name="player" src="/audio/theme_jingle/freeair.mp3" controls="controls">
+     </audio> <span>FreeAir's Theme Jingle episode.. </span>
+     <a href="#" > Download Episode </a>
+   </div>
+   <div id="summary_links">
+     <a href="#" >Summary links #1 </a>
+     <a href="#" >Summary links #2 </a>
+     <a href="#" >Summary links #3 </a>
+   </div>
+   <div id="tags">
+     <a href="#" >Tags #1 </a>
+     <a href="#" >Tags #2 </a>
+     <a href="#" >Tags #3 </a>
+   </div>
+ </section>
+</body>
+</html>

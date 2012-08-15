@@ -1,0 +1,47 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+body {
+  width: 1020px;
+  height: auto;
+  margin: 0 auto;
+  background: #000F3D;
+}
+
+header {
+  text-align:center;
+  margin-top:20px;
+  background: #000F3D;
+}
+
+#logo {
+  width: 980px;
+  height: 200px;
+  margin: 0px auto;
+  background:url("../images/logo.png") top center no-repeat #000F3D;
+}
+
+section {
+ border-bottom: 10px solid #65b6ed;
+
+}
+#date-field {
+
+}
+
+#mp3_audio {
+
+}
+
+#mp3_audio span {
+  font-weight: bold;
+}
+
+#summary_links a {
+  display:block;
+}
+#tags {
+
+}

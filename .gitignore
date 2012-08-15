@@ -1,3 +1,5 @@
 .DS_Store
+_site/*.xml
+_site/*.html
 _sass/.sass-cache
 .sass-cache

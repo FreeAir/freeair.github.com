@@ -1,13 +1,11 @@
-*{
-  margin:0;
-  padding:0;
-}
-
 body {
+  font-family: verdana, Arial, helvetica, sans-serif;
   width: 1020px;
   height: auto;
   margin: 0 auto;
   background: #000F3D;
+  color: #0a2052;
+  line-height: 1.5em;
 }
 
 header {
@@ -24,15 +22,24 @@ header {
 }
 
 section {
- border-bottom: 10px solid #65b6ed;
-
+ /*border-bottom: 10px solid #65b6ed;*/
+ float: left;
 }
-#date-field {
-
+.title_field {
+  font-size: 1.333em;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+  line-height: 32px;
+  height: 33px;
+  float: left;
+  text-align: center;
+  margin-right: 0.75em;
+  display: block;
 }
 
 #mp3_audio {
-
+  display: block;
 }
 
 #mp3_audio span {

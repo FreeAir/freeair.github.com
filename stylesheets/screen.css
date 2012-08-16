@@ -28,7 +28,7 @@ header {
 
 section {
  /*border-bottom: 10px solid #65b6ed;*/
-
+ float: left;
 }
 .title_field {
   font-size: 1.333em;

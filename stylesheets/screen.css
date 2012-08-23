@@ -8,7 +8,6 @@ body {
   width: 1020px;
   height: auto;
   margin: 0 auto;
-  background: #000F3D;
   color: #0a2052;
   line-height: 1.5em;
 }
@@ -27,9 +26,9 @@ header {
 }
 
 section {
- /*border-bottom: 10px solid #65b6ed;*/
  float: left;
 }
+
 .title_field {
   font-size: 1.333em;
   font-weight: bold;
@@ -53,6 +52,7 @@ section {
 #summary_links a {
   display:block;
 }
+
 #tags {
 
 }

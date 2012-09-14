@@ -3,42 +3,66 @@
   padding:0;
 }
 
+body,html{
+    height:100%;
+}
+
 body {
   font-family: verdana, Arial, helvetica, sans-serif;
-  width: 1020px;
-  height: auto;
-  margin: 0 auto;
   color: #0a2052;
   line-height: 1.5em;
 }
 
-header {
+div#sidebar {
   text-align:center;
-  margin-top:20px;
-  background: #000F3D;
+  background: #0E0E0E;
+  height:100%;
+  float:left;
 }
 
 #logo {
-  width: 980px;
-  height: 200px;
-  margin: 0px auto;
-  background:url("../images/logo.png") top center no-repeat #000F3D;
+  width: 150px;
+  height: 150px;
+  margin: 30px;
+  background:url("../images/logo.png") top center no-repeat;
+  display: block;
+  text-indent: -999em;
+  cursor: pointer;
 }
 
-section {
- float: left;
+div.content {
+  display: block;
 }
 
-.title_field {
+article {
+  padding: 50px;
+  display: block;
+  margin-left: 210px;
+  box-shadow: #E3E3E3 0px 1px 0px 0px inset;
+  color: #444;
+  font-family: Helvetica, sans-serif;
+}
+
+article.news {
+  border-left: 5px solid #1163db;
+}
+
+article.podcast {
+  border-left: 5px solid #1585FF;
+}
+
+.title {
   font-size: 1.333em;
   font-weight: bold;
   text-decoration: none;
-  color: white;
   line-height: 32px;
-  height: 33px;
-  float: left;
-  text-align: center;
   margin-right: 0.75em;
+}
+
+.date {
+  font-family: Georgia, serif;
+  font-size: 14px;
+  color: #888;
 }
 
 #mp3_audio {
@@ -54,5 +78,19 @@ section {
 }
 
 #tags {
+  margin-top: 20px;
+}
 
+#tags a {
+  padding: 3px 9px;
+  background: #8F8F8F;
+  text-decoration: none;
+  border-radius: 13px;
+  color: white;
+  font-size: 13px;
+  margin-right: 5px;
+}
+
+#tags a:hover {
+  background: #CACACA;
 }

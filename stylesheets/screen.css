@@ -18,6 +18,9 @@ div#sidebar {
   background: #0E0E0E;
   height:100%;
   float:left;
+  display: block;
+  width: 210px;
+  position: fixed;
 }
 
 #logo {
@@ -51,18 +54,24 @@ article.podcast {
   border-left: 5px solid #1585FF;
 }
 
+article p {
+  margin-bottom: 10px;
+}
+
 .title {
   font-size: 1.333em;
   font-weight: bold;
   text-decoration: none;
   line-height: 32px;
   margin-right: 0.75em;
+  margin-bottom: 5px;
 }
 
 .date {
   font-family: Georgia, serif;
   font-size: 14px;
   color: #888;
+  margin-bottom: 15px;
 }
 
 #mp3_audio {
@@ -73,8 +82,10 @@ article.podcast {
   font-weight: bold;
 }
 
-#summary_links a {
-  display:block;
+#summary {
+  font-family: Georgia, serif;
+  color: #666;
+  margin: 20px auto;
 }
 
 #tags {

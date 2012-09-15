@@ -14,7 +14,7 @@ podcast:
 last_updated: 2012-08-12
 ---
 
-It's been a long time since anti-patterns came to being. Perhaps you would easily relate to the all too common design patterns, speed and corners of purity/clean code. But here we bring to light some anti-patterns, code smells and discuss them.
+It's been a long time since anti-patterns came to being. Perhaps you would easily relate to the all too common design patterns, speed and corners of purity/clean code, but here we bring to light some anti-patterns, code smells and discuss them.
 
 Panelists
 ---------

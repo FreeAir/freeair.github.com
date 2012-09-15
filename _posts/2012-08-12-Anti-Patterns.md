@@ -4,7 +4,7 @@ type: podcast
 title: "Episode #1: Anti-Patterns"
 sub_title: Anti Patterns
 creator: Ikenna Okpala
-summary: It's been a long time since anti-patterns came to being. Perhaps you would easily relate to the all too common design patterns, speed and corners of purity/clean code. But here we bring to light some anti-patterns, code smells and discuss them.
+summary: It's been a long time since anti-patterns came to being. Perhaps you would easily relate to the all too common design patterns, speed and corners of purity/clean code, but here we bring to light some anti-patterns, code smells and discuss them.
 tags: [anti patterns, design patterns, code smells, OOP, software engineering, ruby, go-lang, python]
 feed: http://www.mixcloud.com/freeair/episode-1-anti-patterns/
 podcast:

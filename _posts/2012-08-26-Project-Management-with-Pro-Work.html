@@ -1,0 +1,54 @@
+---
+layout: site
+title: "Episode #4: Project Management with ProWork.me"
+sub_title: Project Management with ProWork
+creator: Ikenna Okpala
+summary:
+tags: [project management, software tools, start ups, software engineering, garage48]
+podcast:
+- duration: "36:02"
+  size: 34.6 MB
+  location: http://pod.freeair.io/audio/episode_4_pro_work.mp3
+last_updated: 2012-08-26
+---
+
+<article class="podcast">
+ <div class="title"> {{page.title}} </div>
+ <div class="date">by {{page.creator}} on {{ page.date | date: "%d %B %Y" }}</div>
+ <div id="mp3_audio">
+  {% for pod in page.podcast %}
+  <audio id="player" name="player" src="{{pod.location}}" controls="controls"></audio>
+  <span>Duration: {{pod.duration}} | File size: {{pod.size}} | <a href="{{pod.location}}" target="_blank" > Download..  </a></span>
+  {% endfor %}
+</div>
+<div id="summary">
+ <p> {{page.summary}} </p>
+ <h3> Panelist: </h3>
+ <ul>
+  <li>Francis Onwumere <a href="http://twitter.com/digitalcraft" target="_blank" >@digitalcraft</a> on twitter</li>
+  <li>Ikenna Okpala <a href="http://twitter.com/kengimel" target="_blank" >@kengimel</a> on twitter</li></ul>
+<h3> Show Notes: </h3>
+<ul>
+  <li><a href="http://nodejs.org/" target="_blank" >Node.js</a> by Francis</li>
+  <li><a href="http://www.etisalat.com.ng/innovation/index.php" target="_blank" >Etisalat Awards Prize for Most Innovative ideas</a> by Francis</li>
+  <li><a href="http://jdigger.github.com/git-process/" target="_blank" >Git Process</a> by Ikenna</li>
+  <li><a href="http://www.cardiio.com/" target="_blank" >Cardiio</a> by Ikenna</li>
+  <li><a href="http://www.alfredapp.com/" target="_blank" >Alred App </a> by Ikenna</li>
+  <li><a href="http://www.saturnflyer.com/blog/jim/2012/07/06/the-gang-of-four-is-wrong-and-you-dont-understand-delegation" target="_blank" >The Gang Of Four Is Wrong And You Don't Understand Delegation </a> by Ikenna</li>
+</ul>
+<div id='social'>
+  <div id='twitter'>
+  <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://freeair.io{{page.url}}" data-via="freeairio">Tweet</a>
+ <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+<div id='disqus'>
+</div>
+
+</div>
+<div id="tags">
+  {% for tag in page.tags %}
+  <a href="#" >{{tag}} </a>
+  {% endfor %}
+</div>
+</article>

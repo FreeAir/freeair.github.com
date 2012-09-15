@@ -22,7 +22,7 @@ layout: nil
     <item>
       <title>{{ post.title }}</title>
       <itunes:author>{{ post.creator }}</itunes:author>
-      <itunes:subtitle>{{ post.title }}</itunes:subtitle>
+      <itunes:subtitle>{{ post.sub_title }}</itunes:subtitle>
       <itunes:summary>{{ post.summary }}</itunes:summary>
       {% for pod in post.podcast %}
       <enclosure url="{{ pod.location }}" length="234233" type="audio/x-mp3"/>

@@ -253,3 +253,7 @@ ul.posts li {
   font-size: 15px;
   font-weight: bold;
 }
+
+.nav a:hover {
+  background: #DBDBDB;
+}

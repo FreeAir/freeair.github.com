@@ -1,11 +1,12 @@
 ---
-layout: site
+layout: post
 type: podcast
 title: "Episode #1: Anti-Patterns"
 sub_title: Anti Patterns
 creator: Ikenna Okpala
 summary: It's been a long time since anti-patterns came to being. Perhaps you would easily relate to the all too common design patterns, speed and corners of purity/clean code. But here we bring to light some anti-patterns, code smells and discuss them.
 tags: [anti patterns, design patterns, code smells, OOP, software engineering, ruby, go-lang, python]
+feed: http://www.mixcloud.com/freeair/episode-1-anti-patterns/
 podcast:
 - duration: "36:02"
   size: 34.6 MB
@@ -13,24 +14,17 @@ podcast:
 last_updated: 2012-08-12
 ---
 
-<article class="{{ page.type }}">
- <div class="title"> {{page.title}} </div>
- <div class="date">by {{page.creator}} on {{ page.date | date: "%d %B %Y" }}</div>
- <div id="mp3_audio">
-  {% for pod in page.podcast %}
-  <audio id="player" name="player" src="{{pod.location}}" controls="controls"></audio>
-  <span>Duration: {{pod.duration}} | File size: {{pod.size}} | <a href="{{pod.location}}" target="_blank" > Download..  </a></span>
-  {% endfor %}
-</div>
-<div id="summary">
- <p> {{page.summary}} </p>
- <h3> Panelist: </h3>
- <ul>
-  <li>Ikenna Okpala <a href="http://twitter.com/kengimel" target="_blank" >@kengimel</a> on twitter</li>
-  <li>Seyi Ogunyemi <a href="http://twitter.com/micrypt" target="_blank" >@micrypt</a> on twitter</li>
-</ul>
-<h3> Show Notes: </h3>
-<ul>
+It's been a long time since anti-patterns came to being. Perhaps you would easily relate to the all too common design patterns, speed and corners of purity/clean code. But here we bring to light some anti-patterns, code smells and discuss them.
+
+Panelists
+---------
+
+* [Ikenna Okpala](http://twitter.com/kengimel)
+*  [Seyi Ogunyemi](http://twitter.com/micrypt)
+
+Show Notes
+----------
+
   <li><a href="http://www.amazon.com/AntiPatterns-Refactoring-Software-Architectures-Projects/dp/0471197130" target="_blank" >AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis</a> by Seyi</li>
   <li><a href="http://www.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0749922648" target="_blank" >Getting Things Done: How to Achieve Stress-free Productivity</a> by Ikenna</li>
   <li><a href="https://github.com/spastorino/rails-api" target="_blank" >Rails Api gem</a> by Ikenna</li>

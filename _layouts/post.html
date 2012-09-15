@@ -12,6 +12,11 @@ layout: default
     </div>
     {% endfor %}
   </div>
+  <div id='social'>
+    <div id='twitter'>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://freeair.io{{page.url}}" data-via="freeairio">Tweet</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
   <div class="post">
     {{ page.content | markdownify }}
   </div>
@@ -20,11 +25,6 @@ layout: default
     <a href="#" >{{tag}} </a>
     {% endfor %}
   </div>
-  <div id='social'>
-    <div id='twitter'>
-      <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://freeair.io{{page.url}}" data-via="freeairio">Tweet</a>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-    </div>
   </div>
   <div id="related">
     <h2>Related Posts</h2>

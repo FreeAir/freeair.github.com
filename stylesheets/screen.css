@@ -23,6 +23,11 @@ div#sidebar {
   position: fixed;
 }
 
+audio{
+  display: block;
+  width: 400px;
+}
+
 #logo {
   width: 150px;
   height: 150px;
@@ -79,13 +84,27 @@ article p {
 }
 
 #mp3_audio span {
-  font-weight: bold;
+  font-weight: normal;
+  font-size: 12px;
 }
 
 #summary {
   font-family: Georgia, serif;
   color: #666;
   margin: 20px auto;
+}
+
+#summary p {
+  width:650px;
+}
+#summary h3 {
+  margin:20px 0 0 0px;
+}
+
+#summary ul {
+  list-style: square;
+  font-size: 12px;
+  margin:20px 0 0 20px;
 }
 
 #tags {
@@ -104,4 +123,8 @@ article p {
 
 #tags a:hover {
   background: #CACACA;
+}
+
+#social {
+  margin:20px;
 }

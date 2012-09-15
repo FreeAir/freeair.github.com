@@ -4,7 +4,7 @@ type: podcast
 title: "Episode #2: Encipher Group and The Android Platform"
 sub_title: Encipher Group and The Android Platform
 creator: Ikenna Okpala
-summary: In this podcast we talk to one of the brains behind the Inye African Android tablet, Anibe Agamah, the CTO of Encipher Group. He provides answers to questions concerning the history, current status, future and mode of business of Encipher Group and Inye tablet.
+summary: In this podcast we talk to one of the brains behind the Inye African Android tablet, Anibe Agamah, the CTO of Encipher Group. He provides answers to questions concerning the history, current status, future and mode of business of Encipher Group and the Inye tablet.
 tags: [mobile, tablets, software engineering, java, inye, android]
 feed: http://www.mixcloud.com/freeair/episode-2-encipher-group-and-android/
 podcast:

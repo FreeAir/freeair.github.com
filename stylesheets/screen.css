@@ -13,6 +13,13 @@ body {
   line-height: 1.5em;
 }
 
+ul,
+h1,
+h2,
+a {
+  font-family: Helvetica, sans-serif;
+}
+
 div#sidebar {
   text-align:center;
   background: #0E0E0E;
@@ -45,6 +52,7 @@ div.content {
 div.post {
   margin: 20px 0;
   width: 700px;
+  font-family: Georgia, serif;
 }
 
 article {
@@ -85,7 +93,7 @@ article p {
 
 .date {
   font-family: Georgia, serif;
-  font-size: 14px;
+  font-size: 15px;
   color: #888;
   margin-bottom: 15px;
 }

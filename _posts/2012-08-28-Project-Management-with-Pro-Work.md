@@ -4,7 +4,7 @@ type: podcast
 title: "Episode #4: Project Management with ProWork.me"
 sub_title: Project Management with ProWork
 creator: Ikenna Okpala
-summary: A short conversation with one of the co-founders on the ProWork, a brilliant new project management startup based out of Lagos, Nigeria. He discusses the challenges of running a business out of West Africa, award nominations and the future.
+summary: A short conversation with one of the co-founders of ProWork, a brilliant new project management startup based out of Lagos, Nigeria. He discusses the challenges of running a business out of West Africa, award nominations and the future.
 tags: [project management, software tools, start ups, software engineering, garage48]
 feed: http://www.mixcloud.com/freeair/episode-4-project-management-with-proworkme/
 podcast:

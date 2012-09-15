@@ -96,8 +96,9 @@ article p {
 
 .summary {
   font-family: Georgia, serif;
-  color: .666;
-  margin: 20px auto;
+  color: #666;
+  margin: 20px 0;
+  width: 70%
 }
 
 .summary p {

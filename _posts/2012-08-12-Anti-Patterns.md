@@ -20,30 +20,15 @@ Panelists
 ---------
 
 * [Ikenna Okpala](http://twitter.com/kengimel)
-*  [Seyi Ogunyemi](http://twitter.com/micrypt)
+* [Seyi Ogunyemi](http://twitter.com/micrypt)
 
 Show Notes
 ----------
 
-  <li><a href="http://www.amazon.com/AntiPatterns-Refactoring-Software-Architectures-Projects/dp/0471197130" target="_blank" >AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis</a> by Seyi</li>
-  <li><a href="http://www.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0749922648" target="_blank" >Getting Things Done: How to Achieve Stress-free Productivity</a> by Ikenna</li>
-  <li><a href="https://github.com/spastorino/rails-api" target="_blank" >Rails Api gem</a> by Ikenna</li>
-  <li><a href="http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning" target="_blank" >Pragmatic Thinking and Learning: Refactor Your Wetware</a> by Ikenna</li>
-  <li><a href="http://www.amazon.co.uk/Fun-Pencil-Andrew-Loomis/dp/0857687603/ref=sr_1_1?s=books&ie=UTF8&qid=1347682878&sr=1-1" target="_blank" >Fun With a Pencil </a> by Seyi</li>
-</ul>
-<div id='social'>
-  <div id='twitter'>
-  <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://freeair.io{{page.url}}" data-via="freeairio">Tweet</a>
- <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</div>
-
-<div id='disqus'>
-</div>
-
-</div>
-<div class="tags">
-  {% for tag in page.tags %}
-  <a href="#" >{{tag}} </a>
-  {% endfor %}
-</div>
-</article>
+* Seyi
+  * [AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis](http://www.amazon.com/AntiPatterns-Refactoring-Software-Architectures-Projects/dp/0471197130)
+  * [Fun With a Pencil](http://www.amazon.co.uk/Fun-Pencil-Andrew-Loomis/dp/0857687603/)
+* Ikenna
+  * [Getting Things Done: How to Achieve Stress-free Productivity](http://www.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0749922648)
+  * [Rails Api gem](https://github.com/spastorino/rails-api)
+  * [Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)

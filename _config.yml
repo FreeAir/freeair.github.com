@@ -8,7 +8,7 @@ markdown: rdiscount
 # configuration required for some pages
 
 domain: freeair.io
-title: FreeAir Podcast Series
+title: FreeAir
 author: FreeAir team (Ikenna Okpala and Seyi Ogunyemi)
 email: we@freeair.io
 logo: http://freeair.io/images/placeholder.png

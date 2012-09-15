@@ -8,7 +8,7 @@ body,html{
 }
 
 body {
-  font-family: verdana, Arial, helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
   color: #0a2052;
   line-height: 1.5em;
 }
@@ -42,6 +42,10 @@ div.content {
   display: block;
 }
 
+div.post {
+  margin: 20px 0;
+}
+
 article {
   padding: 50px;
   display: block;
@@ -60,7 +64,7 @@ article.podcast {
 }
 
 article p {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .title,
@@ -85,11 +89,11 @@ article p {
   margin-bottom: 15px;
 }
 
-.mp3_audio {
+.audio {
 
 }
 
-.mp3_audio span {
+.audio span {
   font-weight: normal;
   font-size: 12px;
 }
@@ -98,7 +102,7 @@ article p {
   font-family: Georgia, serif;
   color: #666;
   margin: 20px 0;
-  width: 70%
+  padding-right: 20px;
 }
 
 .summary p {
@@ -133,5 +137,77 @@ article p {
 }
 
 #social {
-  margin:20px;
+  margin:20px 0;
+}
+
+.info span {
+  font-size: 14px;
+  font-weight: bold;
+  margin-right: 6px;
+  background: #EEE;
+  border-radius: 7px;
+  padding: 3px 6px;
+}
+
+.info a {
+  font-size: 14px;
+  font-weight: bold;
+  margin-right: 6px;
+  background: #6B6B6B;
+  border-radius: 7px;
+  padding: 3px 6px;
+  color: white;
+  text-decoration: none;
+}
+
+.info a:hover {
+  background: #414141;
+}
+
+.data {
+  width: 500px;
+  float: left;
+}
+
+.more a {
+  color: #3386ff;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+ul {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 8px;
+}
+
+li {
+  font-weight: bold;
+}
+
+li a {
+  font-weight: normal;
+  text-decoration: none;
+  color: #0195C5;
+}
+
+li a:hover {
+  color: #05698A;
+}
+
+li li a {
+  font-size: 15px;
+}
+
+li span {
+  color: #888;
+  font-weight: bold;
+}
+
+ul.posts li {
+  font-size: 14px;
 }

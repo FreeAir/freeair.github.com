@@ -223,3 +223,17 @@ li span {
 ul.posts li {
   font-size: 14px;
 }
+
+.external {
+  margin-top: 250px
+}
+
+.external a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 13px;
+  padding: 6px 12px;
+  background: gray;
+  border-radius: 13px;
+}

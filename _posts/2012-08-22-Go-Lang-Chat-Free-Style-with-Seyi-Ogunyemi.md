@@ -11,7 +11,7 @@ podcast:
 - duration: "37:57"
   size: 34.8 MB
   location: http://pod.freeair.io/audio/episode_3_go_lang.mp3
-last_updated: 2012-08-19
+last_updated: 2012-08-22
 ---
 
 In this podcast, Seyi talks about Google's Go Programming language. He describes some of the concepts in Go, the architecture and lines of thought used to create the Go programmes. We also discuss some fundamental concepts of various programming languages.

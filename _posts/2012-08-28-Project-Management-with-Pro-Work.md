@@ -11,7 +11,7 @@ podcast:
 - duration: "36:02"
   size: 34.6 MB
   location: http://pod.freeair.io/audio/episode_4_pro_work.mp3
-last_updated: 2012-08-26
+last_updated: 2012-08-28
 ---
 
 A short conversation with one of the co-founders on the ProWork, a brilliant new project management startup based out of Lagos, Nigeria. He discusses the challenges of running a business out of West Africa, award nominations and the future.

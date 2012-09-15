@@ -4,7 +4,7 @@ type: podcast
 title: "Episode #3: Go Lang Chat Free Style with Seyi Ogunyemi"
 sub_title: Go Lang Chat Free Style with Seyi Ogunyemi
 creator: Ikenna Okpala
-summary: In this podcast, Seyi talks about Google's Go Programming language. He describes some of the concepts in Go, the architecture and lines of thought used to create Go programs. We also discuss some fundamental concepts of various programming languages.
+summary: In this podcast, Seyi talks about Google's Go programming language. He describes some of the concepts in Go, the architecture and lines of thought used to create Go programs. We also discuss some fundamental concepts of various programming languages.
 tags: [mobile, tablets, software engineering, java, inye, android]
 feed: http://www.mixcloud.com/freeair/episode-3-go-language-free-style-with-seyi-ogunyemi/
 podcast:
@@ -14,7 +14,7 @@ podcast:
 last_updated: 2012-08-22
 ---
 
-In this podcast, Seyi talks about Google's Go Programming language. He describes some of the concepts in Go, the architecture and lines of thought used to create Go programs. We also discuss some fundamental concepts of various programming languages.
+In this podcast, Seyi talks about Google's Go programming language. He describes some of the concepts in Go, the architecture and lines of thought used to create Go programs. We also discuss some fundamental concepts of various programming languages.
 
 Panelists
 ---------

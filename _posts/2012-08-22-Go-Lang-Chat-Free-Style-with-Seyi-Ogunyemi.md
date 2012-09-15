@@ -14,7 +14,7 @@ podcast:
 last_updated: 2012-08-22
 ---
 
-In this podcast, Seyi talks about Google's Go Programming language. He describes some of the concepts in Go, the architecture and lines of thought used to create the Go programmes. We also discuss some fundamental concepts of various programming languages.
+In this podcast, Seyi talks about Google's Go Programming language. He describes some of the concepts in Go, the architecture and lines of thought used to create Go programs. We also discuss some fundamental concepts of various programming languages.
 
 Panelists
 ---------

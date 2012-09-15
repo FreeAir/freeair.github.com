@@ -63,13 +63,19 @@ article p {
   margin-bottom: 10px;
 }
 
-.title {
-  font-size: 1.333em;
+.title,
+.title a {
+  font-size: 21px;
   font-weight: bold;
   text-decoration: none;
   line-height: 32px;
   margin-right: 0.75em;
   margin-bottom: 5px;
+  color: #555;
+}
+
+.title a:hover {
+  color: #999;
 }
 
 .date {
@@ -79,39 +85,39 @@ article p {
   margin-bottom: 15px;
 }
 
-#mp3_audio {
+.mp3_audio {
 
 }
 
-#mp3_audio span {
+.mp3_audio span {
   font-weight: normal;
   font-size: 12px;
 }
 
-#summary {
+.summary {
   font-family: Georgia, serif;
-  color: #666;
+  color: .666;
   margin: 20px auto;
 }
 
-#summary p {
+.summary p {
   width:650px;
 }
-#summary h3 {
+.summary h3 {
   margin:20px 0 0 0px;
 }
 
-#summary ul {
+.summary ul {
   list-style: square;
   font-size: 12px;
   margin:20px 0 0 20px;
 }
 
-#tags {
+.tags {
   margin-top: 20px;
 }
 
-#tags a {
+.tags a {
   padding: 3px 9px;
   background: #8F8F8F;
   text-decoration: none;
@@ -121,7 +127,7 @@ article p {
   margin-right: 5px;
 }
 
-#tags a:hover {
+.tags a:hover {
   background: #CACACA;
 }
 

@@ -1,5 +1,6 @@
 ---
 layout: site
+type: podcast
 title: "Episode #1: Anti Patterns"
 sub_title: Anti Patterns
 creator: Ikenna Okpala
@@ -12,7 +13,7 @@ podcast:
 last_updated: 2012-08-12
 ---
 
-<article class="podcast">
+<article class="{{ page.type }}">
  <div class="title"> {{page.title}} </div>
  <div class="date">by {{page.creator}} on {{ page.date | date: "%d %B %Y" }}</div>
  <div id="mp3_audio">
@@ -46,7 +47,7 @@ last_updated: 2012-08-12
 </div>
 
 </div>
-<div id="tags">
+<div class="tags">
   {% for tag in page.tags %}
   <a href="#" >{{tag}} </a>
   {% endfor %}

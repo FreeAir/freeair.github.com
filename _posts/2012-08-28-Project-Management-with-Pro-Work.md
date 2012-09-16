@@ -28,8 +28,8 @@ Show Notes
 * Francis:
   * [Node.js](http://nodejs.org/)
   * [Etisalat Awards Prize for Most Innovative ideas](http://www.etisalat.com.ng/innovation/index.php)
-  * [Git Process](http://jdigger.github.com/git-process/)
 * Ikenna:
+  * [Git Process](http://jdigger.github.com/git-process/)
   * [Cardiio](http://www.cardiio.com)
   * [Alfred App](http://www.alfredapp.com)
   * [The Gang Of Four Is Wrong And You Don't Understand Delegation](http://www.saturnflyer.com/blog/jim/2012/07/06/the-gang-of-four-is-wrong-and-you-dont-understand-delegation)

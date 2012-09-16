@@ -26,6 +26,7 @@ Show Notes
 ----------
 * Seyi
   * [Go Programming Language](http://golang.org/)
+  * [Concurrency is not Parallelism (it's better)](http://concur.rspace.googlecode.com/hg/talk/concur.html)
   * [Raspberry Pi in a Haskell Cloud](http://alenribic.com/writings/post/raspberry-pi-in-a-haskell-cloud)
   * [Django's future, and Python 3](https://www.djangoproject.com/weblog/2012/mar/13/py3k/)
 * Anibe

@@ -19,19 +19,21 @@ layout: nil
     <itunes:image href="{{site.logo}}"/>
     <itunes:explicit>no</itunes:explicit>
     {% for post in site.posts %}
-    <item>
-      <title>{{ post.title }}</title>
-      <itunes:author>{{ post.creator }}</itunes:author>
-      <itunes:subtitle>{{ post.sub_title }}</itunes:subtitle>
-      <itunes:summary>{{ post.summary }}</itunes:summary>
-      {% for pod in post.podcast %}
-      <enclosure url="{{ pod.location }}" length="234233" type="audio/x-mp3"/>
-      <guid>{{ pod.location }}</guid>
-      <pubDate>{{ post.date  | date: "%a, %d %b %Y %H:%M:%S %Z" }} </pubDate>
-      <itunes:duration>{{ pod.duration }}</itunes:duration>
-      <itunes:keywords> {% for tag in post.tags %} {{tag}} {% endfor %} </itunes:keywords>
-    </item>
-    {% endfor %}
+      {% if post.type == 'podcast' %}
+        <item>
+          <title>{{ post.title }}</title>
+          <itunes:author>{{ post.creator }}</itunes:author>
+          <itunes:subtitle>{{ post.sub_title }}</itunes:subtitle>
+          <itunes:summary>{{ post.summary }}</itunes:summary>
+          {% for pod in post.podcast %}
+          <enclosure url="{{ pod.location }}" length="234233" type="audio/x-mp3"/>
+          <guid>{{ pod.location }}</guid>
+          <pubDate>{{ post.date  | date: "%a, %d %b %Y %H:%M:%S %Z" }} </pubDate>
+          <itunes:duration>{{ pod.duration }}</itunes:duration>
+          <itunes:keywords> {% for tag in post.tags %} {{tag}} {% endfor %} </itunes:keywords>
+          {% endfor %}
+        </item>
+      {% endif %}
     {% endfor %}
 
   </channel>

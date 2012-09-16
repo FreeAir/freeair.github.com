@@ -9,19 +9,21 @@ markdown: rdiscount
 
 domain: freeair.io
 title: FreeAir
-author: The FreeAir team
+author: FreeAir team (Ikenna Okpala and Seyi Ogunyemi)
 email: we@freeair.io
+logo: http://freeair.io/images/placeholder.png
+summary: FreeAir is a software and technology focused blog and podcast
 
 # configuration for ehancements, uncomment to enable
 
 # feedburner:
 #   id: feedburnerid
 
-# google_analytics:
-#   account: UA-XXXXX-X
+google_analytics:
+  account: UA-34835090-1
 
 # github:
-#   username: ghusername
+#   username: freeair
 
 # disqus:
 #   id: disqusid

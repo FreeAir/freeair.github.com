@@ -14,7 +14,7 @@ podcast:
 last_updated: 2012-08-28
 ---
 
-A short conversation with one of the co-founders of ProWork, a brilliant new project management startup based out of Lagos, Nigeria. He discusses the challenges of running a business out of West Africa, award nominations and the future.
+A short conversation with one of the co-founders of [ProWork](http://prowork.me), a brilliant new project management startup based out of Lagos, Nigeria. He discusses the challenges of running a business out of West Africa, award nominations and the future.
 
 Panelists
 ---------

@@ -13,6 +13,30 @@ body {
   line-height: 1.5em;
 }
 
+p {
+  margin-bottom: 20px;
+}
+
+.description {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.description a {
+  color: lightBlue;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 ul,
 h1,
 h2,

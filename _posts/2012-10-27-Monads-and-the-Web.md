@@ -4,7 +4,7 @@ type: podcast
 title: "Episode #6: Those Twisted Monads"
 sub_title: Those Twisted Monads
 creator: Ikenna Okpala
-summary: This episode focuses on monads, now don't get it twisted. We had on air Gregory Meredith from Biosimilarity and author of Monadic Design Patterns for the Web. Greg explained what monads are, relating them to serveral familiar DSLs, concepts and structures like XML etc. He also talked about how monads help provide levels of abstraction to help reduce the cross cutting concerns / dependencies that most enterprise application may be in need of. Greg also gave insight on his choice of Scala over Haskel as his language for driving the Monadic design patterns idea in the enterprise.
+summary: This episode focuses on monads. We had on air Gregory Meredith, from Biosimilarity and author of Monadic Design Patterns for the Web. Greg explained what monads are, relating them to several familiar DSLs and concepts such as XML. He also talked about how monads help provide levels of abstraction to help reduce the cross cutting concerns or dependencies that most enterprise application may be in need of. Greg also gave insight on his choice of Scala over Haskell as the language for communicating the Monadic Design Patterns idea in the enterprise.
 tags: [scala, haskell, monads, http, web, software, engineering, sabar-drumming, senegal, web, africa]
 feed: http://www.mixcloud.com/freeair/episode-6-those-twisted-monads/
 podcast:
@@ -14,8 +14,7 @@ podcast:
 last_updated: 2012-10-27
 ---
 
-This episode focuses on monads, now don't get it twisted. We had on air Gregory from Biosimilarity and author of Monadic Design Patterns for the Web. Greg explained what monads are relating them to serveral familiar DSLs and concepts like XML etc. He also talked about how monads help provide levels of abstraction to help reduce the cross cutting concerns / dependencies that most enterprise application may be in need of. Greg also gave insight on his choice of Scala over Haskel as his language for driving the Monadic design patterns idea in the enterprise.
-Panelists
+This episode focuses on monads. We had on air Gregory Meredith, from Biosimilarity and author of Monadic Design Patterns for the Web. Greg explained what monads are, relating them to several familiar DSLs and concepts such as XML. He also talked about how monads help provide levels of abstraction to help reduce the cross cutting concerns or dependencies that most enterprise application may be in need of. Greg also gave insight on his choice of Scala over Haskell as the language for communicating the Monadic Design Patterns idea in the enterprise.Panelists
 ---------
 
 * [Gregory Meredith](http://biosimilarity.blogspot.co.uk/)

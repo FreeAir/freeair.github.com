@@ -10,7 +10,7 @@ feed: http://www.mixcloud.com/freeair/episode-2-encipher-group-and-android/
 podcast:
 - duration: "55:43"
   size: 51.1 MB
-  location: http://pod.freeair.io/audio/episode_2_encipher_group.mp3
+  location: https://s3.amazonaws.com/freeair/episode_2_encipher_group.mp3
 last_updated: 2012-08-19
 ---
 

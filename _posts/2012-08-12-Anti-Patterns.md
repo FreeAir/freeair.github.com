@@ -19,7 +19,7 @@ It's been a long time since anti-patterns came to being. Perhaps you would easil
 Panelists
 ---------
 
-* [Ikenna Okpala](http://twitter.com/kengimel)
+* [Ikenna Okpala](http://twitter.com/ikenna_okpala)
 * [Seyi Ogunyemi](http://twitter.com/micrypt)
 
 Show Notes

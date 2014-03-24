@@ -19,7 +19,7 @@ In this podcast, Seyi talks about Google's Go programming language. He describes
 Panelists
 ---------
 * [Anibe Agamah (CTO Encipher Group)](http://twitter.com/anibe)
-* [Ikenna Okpala](http://twitter.com/kengimel)
+* [Ikenna Okpala](http://twitter.com/ikenna_okpala)
 * [Seyi Ogunyemi](http://micrypt.com)
 
 Show Notes

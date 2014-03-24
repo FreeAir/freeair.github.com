@@ -20,7 +20,7 @@ Panelists
 ---------
 
 * [Anibe Agamah (CTO Encipher Group)](http://twitter.com/anibe)
-* [Ikenna Okpala](http://twitter.com/kengimel)
+* [Ikenna Okpala](http://twitter.com/ikenna_okpala)
 * [Seyi Ogunyemi](http://twitter.com/micrypt)
 
 Show Notes

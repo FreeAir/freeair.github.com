@@ -21,7 +21,7 @@ Panelists
 
 * [Michael Surkan](http://www.linkedin.com/in/msurkan)
 * [Seyi Ogunyemi](http://micrypt.com)
-* [Ikenna Okpala](http://twitter.com/ikenna_okpala)
+* [Ikenna Okpala](http://www.ikennaokpala.com)
 
 Show Notes
 ----------

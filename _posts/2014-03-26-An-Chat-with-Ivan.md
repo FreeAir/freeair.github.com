@@ -10,7 +10,7 @@ tags: [scala, architecture, http, web, software, engineering, rest, scalatra, ru
 feed: http://www.mixcloud.com/freeair/a-chat-with-ivan/
 podcast:
 - duration: "30:22"
-  size: 42.6 MB
+  size: 29.2 MB
   location: https://s3.amazonaws.com/freeair/episode_7_a_chat_with_ivan.mp3
 last_updated: 2014-03-26
 ---

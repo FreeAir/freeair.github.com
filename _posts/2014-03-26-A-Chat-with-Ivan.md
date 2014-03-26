@@ -35,7 +35,7 @@ Show Notes
   * [Heztner](http://www.hetzner.de/)
   * [Scalatra In Action](http://www.manning.com/carrero2/)
 * Seyi
-  * [Network Stack Specialization for Performance](https://github.com/ndbroadbent/scm_breeze)
+  * [SCM Breeze](https://github.com/ndbroadbent/scm_breeze)
 * Ikenna:
   * [PostgreSQL awesomeness for Rails developers](http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/)
   * [thoughtbot / gitsh](https://github.com/thoughtbot/gitsh)

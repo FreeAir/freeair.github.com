@@ -29,7 +29,8 @@ Show Notes
 
 * Ivan:
   * [Network Stack Specialization for Performance](http://conferences.sigcomm.org/hotnets/2013/papers/hotnets-final43.pdf)
-  * [NETMAP(4) FreeBSD Kernel Interfaces Manual ](http://www.freebsd.org/cgi/man.cgi?query=netmap&sektion=4)
+  * [NETMAP(4) FreeBSD Kernel Interfaces Manual](http://www.freebsd.org/cgi/man.cgi?query=netmap&sektion=4)
+  * [Scalatra In Action](http://www.manning.com/carrero2/)
 * Ikenna:
   * [PostgreSQL awesomeness for Rails developers](http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/)
   * [thoughtbot / gitsh](https://github.com/thoughtbot/gitsh)

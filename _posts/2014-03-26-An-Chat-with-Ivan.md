@@ -12,7 +12,7 @@ podcast:
 - duration: "30:22"
   size: 42.6 MB
   location: https://s3.amazonaws.com/freeair/episode_7_a_chat_with_ivan.mp3
-last_updated: 2012-10-27
+last_updated: 2014-03-26
 ---
 
 This episode we chat with Ivan Porto Carrero on REST, Scala, Scalatra, Team / Project collaboration etc. Ivan gives us his own take on ways to approach the development of REST based applications. He also talks about the early days of scalatra, highlighting the bootlenecks and decisions they had to take. Ivan gave us his opinion on some of the shiny new frontend frameworks and why scalatra supports one of them. We conclude with some advise for deploying java applications for less.

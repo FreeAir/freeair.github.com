@@ -163,6 +163,7 @@ article p {
   font-size: 13px;
   margin-right: 5px;
   font-weight: bold;
+  cursor: default;
 }
 
 #social {

@@ -21,7 +21,7 @@ Panelists
 
 * [Gregory Meredith](http://biosimilarity.blogspot.co.uk/)
 * [Seyi Ogunyemi](http://micrypt.com)
-* [Ikenna Okpala](http://twitter.com/ikenna_okpala)
+* [Ikenna Okpala](http://www.ikennaokpala.com)
 
 Show Notes
 ----------

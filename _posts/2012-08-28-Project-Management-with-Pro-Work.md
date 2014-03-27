@@ -20,7 +20,7 @@ Panelists
 ---------
 
 * [Francis Onwumere](http://twitter.com/digitalcraft)
-* [Ikenna Okpala](http://twitter.com/ikenna_okpala)
+* [Ikenna Okpala](http://www.ikennaokpala.com)
 
 Show Notes
 ----------

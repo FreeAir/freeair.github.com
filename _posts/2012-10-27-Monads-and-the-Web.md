@@ -10,7 +10,7 @@ feed: http://www.mixcloud.com/freeair/episode-6-those-twisted-monads/
 podcast:
 - duration: "1:07:02"
   size: 42.6 MB
-  location: https://s3.amazonaws.com/freeair/episode_6_those_twisted_monads.mp3
+  location: https://s3-eu-west-1.amazonaws.com/freeair/episode_6_those_twisted_monads.mp3
 last_updated: 2012-10-27
 ---
 

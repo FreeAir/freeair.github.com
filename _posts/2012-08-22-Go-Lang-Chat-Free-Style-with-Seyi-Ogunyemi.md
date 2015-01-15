@@ -10,7 +10,7 @@ feed: http://www.mixcloud.com/freeair/episode-3-go-language-free-style-with-seyi
 podcast:
 - duration: "37:57"
   size: 34.8 MB
-  location: https://s3.amazonaws.com/freeair/episode_3_go_lang.mp3
+  location: https://s3-eu-west-1.amazonaws.com/freeair/episode_3_go_lang.mp3
 last_updated: 2012-08-22
 ---
 

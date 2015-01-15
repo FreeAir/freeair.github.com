@@ -10,7 +10,7 @@ feed: http://www.mixcloud.com/freeair/episode-4-project-management-with-proworkm
 podcast:
 - duration: "36:02"
   size: 34.6 MB
-  location: https://s3.amazonaws.com/freeair/episode_4_pro_work.mp3
+  location: https://s3-eu-west-1.amazonaws.com/freeair/episode_4_pro_work.mp3
 last_updated: 2012-08-28
 ---
 

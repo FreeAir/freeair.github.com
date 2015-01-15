@@ -10,7 +10,7 @@ feed: http://www.mixcloud.com/freeair/episode-5-cloud-based-hosting-with-uhuru/
 podcast:
 - duration: "48:42"
   size: 23.4 MB
-  location: https://s3.amazonaws.com/freeair/episode_5_cloud_based_hosting_with_uhuru.mp3
+  location: https://s3-eu-west-1.amazonaws.com/freeair/episode_5_cloud_based_hosting_with_uhuru.mp3
 last_updated: 2012-10-07
 ---
 
